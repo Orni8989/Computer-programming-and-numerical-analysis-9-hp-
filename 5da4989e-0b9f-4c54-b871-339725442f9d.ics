@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20240220T162319Z
+UID:calendly-917032992
+DTSTART:20240221T100000Z
+DTEND:20240221T101500Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Intervju med Allakando\nEvent Description: Boka en 
+ tid & dag för din intervju\, gärna så nära i tiden som möjligt :) Eft
+ er du bokat kommer du få en bekräftelse samt fortsatta instruktioner til
+ l din mejl. \nDate & Time: 11:00 - 11:15 (Central European Time) on Wednes
+ day\, February 21\, 2024\nLocation: https://us04web.zoom.us/j/4692495016?p
+ wd=V1YxZVNJWC85L2x1b2RmeDRpVUFOdz09\n\nPhone number: 070-3212597\n\nVi ser
+  verkligen fram emot att träffa dig snart! För att allt ska fungera rikt
+ igt bra och smidigt finns det fyra saker som är bra att tänka på::\n  1
+ ) Anteckna din intervjutid nu direkt i din kalender/påminnelser eller lik
+ nande\n  2) Läs igenom bekräftelsemejlet och genomför förberdelserna d
+ irekt för att säkerställa att Zoom fungerar som det ska\n  3) Observera
+  att du endast behöver ha en intervju totalt - du behöver alltså inte h
+ a en extra intervju för varje ny familj\n\nCancellation Policy: Omboka/av
+ boka endast din intervju om du verkligen inte kan träffa oss på din vald
+ a tid.\n\nNeed to make changes to this event?\nCancel: https://calendly.co
+ m/cancellations/5da4989e-0b9f-4c54-b871-339725442f9d\nReschedule: https://
+ calendly.com/reschedulings/5da4989e-0b9f-4c54-b871-339725442f9d\n
+LOCATION:https://us04web.zoom.us/j/4692495016?pwd=V1YxZVNJWC85L2x1b2RmeDRpV
+ UFOdz09
+SUMMARY:Intervju med Allakando with Rekryterare 3
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
